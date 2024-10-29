@@ -14,7 +14,7 @@
 
 ### Monke Mod Manager {docsify-ignore}
 
-![Monke Mod Manager logo](../docs/files/mmmlogo.png)
+![Monke Mod Manager logo](/docs/files/mmmlogo.png)
 
 ?> This is currently the **recommended mod installer**.
 
